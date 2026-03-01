@@ -6,6 +6,12 @@ This project analyzes the IPL 2023 Auction Dataset using Python for data cleanin
 
 The goal is to explore player pricing, team distribution, player types, and prepare the dataset for further machine learning tasks.
 
+⚠️ Note:
+
+This project is for Data Analysis purposes only.
+
+No Machine Learning models were built.
+
 📂 Dataset
 
 Dataset used:
